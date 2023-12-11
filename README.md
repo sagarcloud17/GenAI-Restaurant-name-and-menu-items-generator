@@ -18,4 +18,4 @@ Technologies Used
 
 **Langchain:** Langchain is utilized to interface with OpenAI's language model and manage the generation of restaurant names and menu items.
 
-**Streamlit: **The web application is developed using Streamlit, a popular Python library for creating interactive web applications for data science and machine learning projects.
+**Streamlit:** The web application is developed using Streamlit, a popular Python library for creating interactive web applications for data science and machine learning projects.
